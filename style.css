@@ -21,6 +21,8 @@ body {
 }
 .clearfix {
     clear: both;
+    height: 5px;
+    background-color: black;
 }
 .one1 {
     background-color: rgb(130, 111, 160);
@@ -54,4 +56,32 @@ body {
     width: 40px;
     height: 40px;
     float: right;
+}
+.cube {
+    background-color: rgb(243, 247, 39);
+    width: 55px;
+    height: 55px;
+    float: left;
+    margin-left: 10px;
+}
+.cube1 {
+    background-color: rgb(158, 36, 121);
+    width: 55px;
+    height: 55px;
+    float: left;
+    margin-left: 10px;
+}
+.cube2 {
+    background-color: rgb(20, 58, 11);
+    width: 55px;
+    height: 55px;
+    float: right;
+    margin-right: 10px;
+}
+.cube3 {
+    background-color: rgb(243, 247, 39);
+    width: 55px;
+    height: 55px;
+    float: right;
+    margin-right: 10px;
 }
